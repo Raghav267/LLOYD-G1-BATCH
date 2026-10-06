@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; 
 int findingSize(string *arr)
 {
     int size = sizeof(arr) / sizeof(string);
